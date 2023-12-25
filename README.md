@@ -1,3 +1,4 @@
+![logo](https://github.com/shayan-zaheer/shayan-zaheer/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Shayan Zaheer</h1>
 <h3 align="center">A passionate programmer from Pakistan🇵🇰</h3>
 
