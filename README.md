@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python (Data Visualization), C++ (OOPs)... or anything [here](https://github.com/shayan-zaheer/shayan-zaheer/issues)**
 
-⚡ Fun fact **Records for most goals scored in a year is 91, held by Leo Messi**
+⚡ Fun fact **Record for most goals scored in a year is 91, held by Leo Messi**
 
  </div>
  
