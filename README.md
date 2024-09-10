@@ -9,10 +9,8 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a Video streaming platform!**
- 
- 🌱 I’m currently learning **JavaScript and React JS**
+  
+ 🌱 I’m currently learning **NextJS**
 
 💬 Ask me about **Python (Data Visualization), C++ (OOPs)... or anything [here](https://github.com/shayan-zaheer/shayan-zaheer/issues)**
 
