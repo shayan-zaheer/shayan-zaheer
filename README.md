@@ -12,7 +12,7 @@
   
  🌱 I’m currently learning **NextJS**
 
-💬 Ask me about anything [here](https://github.com/shayan-zaheer/shayan-zaheer/issues)**
+💬 Ask me about anything [here](https://github.com/shayan-zaheer/shayan-zaheer/issues)
 
 🐐 Fun fact **Record for most goals scored in a calendar year is 91, held by Leo Messi**
 
